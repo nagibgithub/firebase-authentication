@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+
+nav h1 a{
+    padding: 0px 5px;
+}
+
+button{
+    padding : 10px 20px;
+    background-color: rgb(103, 103, 255);
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(103 103 255);
+}
